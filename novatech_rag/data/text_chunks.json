@@ -1,0 +1,502 @@
+[
+  {
+    "chunk_id": 1,
+    "page": 1,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 1 of 25 NOVATECH ELECTRONICS DETAILED CUSTOMER KNOWLEDGE BASE Version 3.0 | 25-page edition | RAG chatbot demonstration FICTIONAL COMPANY DISCLAIMER NovaTech Electronics, its products, prices, specifications, contact details, and policies are fictional examples for software development and retrieval testing. They are not real commercial offers. 1. Company Profile and Chatbot Scope Company ID: NOVA-COMP-001 | Document version 3.0 Company background NovaTech Electronics is a fictional consumer-electronics retailer created as a realistic sample knowledge base for a Retrieval-Augmented Generation (RAG) chatbot. The catalog covers laptops, smartphones, headphones, earbuds, chargers, cables, monitors, and connectivity hubs."
+  },
+  {
+    "chunk_id": 2,
+    "page": 1,
+    "text": "The catalog covers laptops, smartphones, headphones, earbuds, chargers, cables, monitors, and connectivity hubs. Every brand name, product identifier, price, specification, service detail, and policy in this document is invented for software development and testing. It must not be presented as a real commercial offer. Customer promise The fictional company focuses on helping customers select compatible technology, understand trade-offs, and solve common problems safely. A good answer should explain why an option fits the customer's stated needs, mention important limitations, and avoid exaggerating performance or compatibility. Customer groups The sample audience includes university students, office workers, remote employees, families, gamers, content creators, and small businesses."
+  },
+  {
+    "chunk_id": 3,
+    "page": 1,
+    "text": "These customers have different priorities: a student may prioritize cost and portability; a developer may need memory and storage; a family may value ease of use; and a designer may need display detail and graphics capability. Demo contact and service hours Fictional contact email: support@novatech.example. Fictional phone: +20 2 5550 0100. Example support hours: Sunday–Thursday, 9:00 AM–5:00 PM Egypt time, excluding public holidays. The .example domain and phone are placeholders and are not real contact channels. What the chatbot can do The chatbot can explain documented product features, compare products, summarize the sample policies, guide customers through safe basic troubleshooting, and ask clarifying questions. It can cite product IDs and distinguish known information from unknown details. It should answer in the language used by the customer when possible."
+  },
+  {
+    "chunk_id": 4,
+    "page": 1,
+    "text": "It can cite product IDs and distinguish known information from unknown details. It should answer in the language used by the customer when possible. What the chatbot cannot do Unless a real external system is connected, the chatbot cannot check current inventory, track a parcel, create or cancel an order, charge a payment method, approve a refund, verify warranty status, or see repair progress. It must never pretend that these actions have been completed. Grounding and uncertainty When information is missing, use a direct phrase such as: “The NovaTech demo knowledge base does not specify that detail.” Then name the missing fact and suggest what should be checked. Do not infer water resistance, benchmark scores, certifications, included accessories, or exact arrival dates from a product name. Knowledge-base conventions Prices use Egyptian pounds (EGP) and are static fictional examples."
+  },
+  {
+    "chunk_id": 5,
+    "page": 1,
+    "text": "Knowledge-base conventions Prices use Egyptian pounds (EGP) and are static fictional examples. Approximate weights and battery estimates are not guarantees. Product IDs are unique identifiers and should be preserved in chunks and chatbot answers. Policy timelines are examples for RAG testing and are not legal advice or real retailer commitments."
+  },
+  {
+    "chunk_id": 6,
+    "page": 2,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 2 of 25 2. Laptop Product Profile: NovaBook Air 14 Product ID: NT-LAP-101 | Category: Laptop | Example price: EGP 28,999 Product positioning NovaBook Air 14 is designed in this fictional catalog for customers who need a portable everyday laptop. Typical use cases include university assignments, browser-based learning, document editing, presentations, video meetings, spreadsheets, light programming, and multitasking with ordinary productivity tools. Display and portability The example configuration includes a 14-inch Full HD IPS display and an approximate weight of 1.4 kg. The compact screen can make the device easier to carry between home, campus, and an office. A customer who frequently works with large spreadsheets or multiple windows may prefer a larger external display or a larger laptop."
+  },
+  {
+    "chunk_id": 7,
+    "page": 2,
+    "text": "A customer who frequently works with large spreadsheets or multiple windows may prefer a larger external display or a larger laptop. Memory and storage The laptop lists 16 GB RAM and a 512 GB SSD. RAM is working memory for active applications, while SSD storage holds the operating system, programs, and files. This configuration offers more memory and storage than the fictional NovaBook Study 15, but less listed capacity than NovaBook Pro 16. Processor and ports The example processor is called NovaCore U5, a fictional label rather than a real processor model. Listed ports are USB-C, USB-A, HDMI, and a 3.5 mm audio jack. The exact USB-C capabilities, port versions, charging support, and external display limits are not specified. Battery expectations Estimated battery life is up to 9 hours under ideal conditions."
+  },
+  {
+    "chunk_id": 8,
+    "page": 2,
+    "text": "Battery expectations Estimated battery life is up to 9 hours under ideal conditions. Real runtime changes with screen brightness, wireless connectivity, background applications, video calls, battery age, and workload. A chatbot should say “up to 9 hours in ideal conditions,” not promise nine hours for every customer. Strengths and trade-offs Strengths include its listed portability, 16 GB RAM, 512 GB SSD, and broad everyday positioning. Trade-offs include a smaller screen than the 15.6-inch Study 15 and 16-inch Pro 16, and no documented dedicated graphics specification. The document does not provide benchmark results or upgradeability details. Recommendation example For a student who carries a laptop daily and uses office apps, NT-LAP-101 is a reasonable option to discuss."
+  },
+  {
+    "chunk_id": 9,
+    "page": 2,
+    "text": "Recommendation example For a student who carries a laptop daily and uses office apps, NT-LAP-101 is a reasonable option to discuss. Before recommending it for software engineering, ask which IDEs, containers, virtual machines, datasets, or design tools the customer uses. For demanding graphics work, compare the Pro 16 and verify exact software requirements. Product FAQ Q: What is the product ID? A: NT-LAP-101. Q: What is the example price? A: EGP 28,999. Q: How much RAM and SSD storage are listed? A: 16 GB RAM and 512 GB SSD. Q: Is nine-hour battery life guaranteed? A: No; it is an ideal-condition estimate."
+  },
+  {
+    "chunk_id": 10,
+    "page": 3,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 3 of 25 3. Laptop Product Profile: NovaBook Pro 16 Product ID: NT-LAP-102 | Category: Laptop | Example price: EGP 49,500 Product positioning NovaBook Pro 16 is the performance-oriented laptop in this fictional catalog. It is intended for heavier multitasking, software development, content creation, large projects, and some graphics-intensive tasks. It is not described as suitable for every professional workload because exact GPU, thermal, and benchmark data are not included. Display and core specifications The example configuration includes a 16-inch 2.5K IPS display, a fictional NovaCore H7-class processor, 32 GB RAM, a 1 TB SSD, and dedicated mid-range graphics. The H7 name is invented."
+  },
+  {
+    "chunk_id": 11,
+    "page": 3,
+    "text": "The H7 name is invented. “Dedicated mid-range graphics” is a broad fictional description and does not identify a real GPU or guarantee performance in a particular application. Memory and development work The listed 32 GB RAM can be helpful when multiple development tools, browser tabs, local services, and larger projects run together. The 1 TB SSD offers twice the nominal storage capacity listed for NovaBook Air 14 and more than the Study 15. Actual usable storage is lower after system software and applications are installed. Portability and display The approximate listed weight is 2.0 kg. The 16-inch display and 2.5K resolution provide more screen area and detail than the Air 14's 14-inch Full HD panel. The larger size and weight may be less convenient for daily commuting."
+  },
+  {
+    "chunk_id": 12,
+    "page": 3,
+    "text": "The larger size and weight may be less convenient for daily commuting. Graphics and AI workload caution Some AI tasks can benefit from a GPU, but suitability depends on the exact GPU model, VRAM, drivers, framework, model size, and software requirements. This knowledge base gives no GPU model, VRAM figure, or benchmark. The chatbot must not promise that the laptop can train a specific model or run a named game at a particular frame rate. Comparison with Air 14 Compared with NT-LAP-101, NT-LAP-102 lists twice the RAM, twice the SSD capacity, a larger higher-resolution display, and dedicated graphics. It is also more expensive and approximately 0.6 kg heavier. The recommendation should connect those differences to the customer's workload and budget. Product FAQ Q: Which laptop lists 32 GB RAM? A: NovaBook Pro 16, NT-LAP-102. Q: What is its example price? A: EGP 49,500."
+  },
+  {
+    "chunk_id": 13,
+    "page": 3,
+    "text": "Product FAQ Q: Which laptop lists 32 GB RAM? A: NovaBook Pro 16, NT-LAP-102. Q: What is its example price? A: EGP 49,500. Q: Is it guaranteed to run every AI workload? A: No. Exact GPU details and benchmarks are absent."
+  },
+  {
+    "chunk_id": 14,
+    "page": 4,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 4 of 25 4. Laptop Product Profile: NovaBook Study 15 Product ID: NT-LAP-103 | Category: Laptop | Example price: EGP 21,750 Product positioning NovaBook Study 15 is the budget-oriented laptop in the fictional laptop range. It targets document editing, presentations, web research, online classes, streaming, email, and basic daily computing. It is a useful example for explaining the trade-off between lower purchase price and hardware headroom. Display and configuration The sample configuration includes a 15.6-inch Full HD display, fictional NovaCore U3-class processor, 8 GB RAM, and a 256 GB SSD. NovaCore U3 is an invented label, not a real CPU model. The document does not specify refresh rate, panel brightness, battery capacity, keyboard layout, or upgrade options."
+  },
+  {
+    "chunk_id": 15,
+    "page": 4,
+    "text": "The document does not specify refresh rate, panel brightness, battery capacity, keyboard layout, or upgrade options. Appropriate workloads For a customer who mainly uses a browser, office applications, video calls, and university learning platforms, the listed configuration may be adequate. Before recommending it for a degree in engineering, AI, design, or software development, ask about required applications and minimum system requirements. Limitations The 8 GB RAM and 256 GB SSD can be limiting for heavy multitasking, virtual machines, large datasets, extensive media libraries, and demanding creative software. The chatbot should be transparent about these limitations rather than describing the laptop as universally suitable."
+  },
+  {
+    "chunk_id": 16,
+    "page": 4,
+    "text": "The chatbot should be transparent about these limitations rather than describing the laptop as universally suitable. Comparison with Air 14 NovaBook Study 15 costs less in the example catalog and has a larger 15.6-inch screen, but lists half the RAM and half the SSD capacity of NovaBook Air 14. Study 15 may suit a tight budget and basic tasks; Air 14 is a stronger everyday multitasking choice with more portability. Comparison with Pro 16 NovaBook Pro 16 costs substantially more but lists 32 GB RAM, a 1 TB SSD, a 16-inch 2.5K display, and dedicated mid-range graphics. Customers should pay for those features only if their applications and workload benefit from them. Recommendation example If a customer says “I need a laptop for online classes and Word, and my budget is limited,” NT-LAP-103 is a reasonable starting point."
+  },
+  {
+    "chunk_id": 17,
+    "page": 4,
+    "text": "If they mention Docker, virtual machines, large Python environments, or advanced graphics, ask more questions and explain why a higher configuration may be safer. Product FAQ Q: Which laptop has the lowest example price? A: NT-LAP-103 at EGP 21,750. Q: How much storage does it list? A: 256 GB SSD. Q: Is it the best laptop for every developer? A: No; software and workload requirements must be checked."
+  },
+  {
+    "chunk_id": 18,
+    "page": 5,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 5 of 25 5. Laptop Comparison and Buying Consultation Related products: NT-LAP-101, NT-LAP-102, NT-LAP-103 Budget-first decision The fictional prices are EGP 21,750 for Study 15, EGP 28,999 for Air 14, and EGP 49,500 for Pro 16. These are example prices only. A chatbot should not state that a discount exists unless the current connected system confirms it. Ask for the customer's maximum budget and whether that budget includes accessories. Portability-first decision Air 14 is listed at approximately 1.4 kg, while Pro 16 is approximately 2.0 kg. Study 15's weight is not specified, so the chatbot must not invent a weight-based ranking for all three laptops. Customers should also consider charger size, bag weight, and how often they commute."
+  },
+  {
+    "chunk_id": 19,
+    "page": 5,
+    "text": "Customers should also consider charger size, bag weight, and how often they commute. Study and office workloads For browsing, documents, presentations, and video meetings, Study 15 is the lowest-priced listed option. Air 14 offers 16 GB RAM and a 512 GB SSD, which provide more headroom for multitasking. The right choice depends on whether the customer values price, portability, memory, or storage most. Development workloads Ask about programming languages, IDEs, local databases, Docker containers, virtual machines, and whether projects include large datasets. Air 14 may suit lighter development tasks; Pro 16 has the most listed RAM and storage. This is a specification-based suggestion, not a guarantee of compatibility or speed. Creative work and graphics Pro 16 is the only laptop with dedicated graphics described in the fictional catalog."
+  },
+  {
+    "chunk_id": 20,
+    "page": 5,
+    "text": "Creative work and graphics Pro 16 is the only laptop with dedicated graphics described in the fictional catalog. The exact GPU, VRAM, display color coverage, and benchmarks are missing. For professional video editing, 3D rendering, or local AI model work, the chatbot should request exact application requirements and flag the missing details. Clarifying questions A good consultation asks: What is your budget in EGP? Which apps will you run? Will you carry the laptop every day? Do you need a number pad or a large display? How much storage do you use? Does a university or employer provide minimum hardware requirements? Worked recommendation Customer: “I study computer science, use VS Code and Python, and travel daily.” Response: “NovaBook Air 14 (NT-LAP-101) is worth considering because it lists 16 GB RAM, a 512 GB SSD, and an approximate weight of 1.4 kg."
+  },
+  {
+    "chunk_id": 21,
+    "page": 5,
+    "text": "If your work includes many virtual machines or heavier graphics workloads, compare Pro 16. What is your budget and do you need Docker or local AI workloads?” Avoiding false certainty Do not answer “this laptop is definitely best” without learning the customer's constraints. Do not invent battery tests, gaming performance, ports, upgradeability, or operating-system details. State the known facts, explain the trade-offs, and ask one focused follow-up question when needed."
+  },
+  {
+    "chunk_id": 22,
+    "page": 6,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 6 of 25 6. Smartphone Product Profile: NovaPhone S Product ID: NT-PHN-201 | Category: Smartphone | Example price: EGP 16,999 Product positioning NovaPhone S is a compact-oriented smartphone for everyday communication, social media, photography, navigation, video streaming, and general productivity. It is positioned for customers who prefer a smaller screen than the NovaPhone Plus and want an OLED display. Display and memory The fictional configuration includes a 6.1-inch OLED display, 8 GB RAM, and 128 GB storage. OLED describes a display technology; no measured brightness, refresh rate, color accuracy, or screen protection rating is provided. Advertised storage includes space used by the operating system and preinstalled software. Camera NovaPhone S has a dual rear camera system."
+  },
+  {
+    "chunk_id": 23,
+    "page": 6,
+    "text": "Advertised storage includes space used by the operating system and preinstalled software. Camera NovaPhone S has a dual rear camera system. The document does not state sensor size, lens focal lengths, optical zoom, stabilization, or benchmark results. Photography quality depends on lighting, subject motion, camera processing, and technique, so the chatbot should avoid unsupported comparisons with real phone brands. Connectivity The catalog lists 5G where supported by the carrier and region, Wi-Fi, Bluetooth, and USB-C. Network access depends on local coverage, supported frequency bands, carrier plan, and device configuration. USB-C connector presence does not establish a particular data rate or charging wattage. Battery expectations The phone is described as designed for a full day of typical use, but no battery capacity or standardized test result is given."
+  },
+  {
+    "chunk_id": 24,
+    "page": 6,
+    "text": "Battery expectations The phone is described as designed for a full day of typical use, but no battery capacity or standardized test result is given. Heavy navigation, camera use, gaming, high brightness, and weak signal can increase battery drain. Do not promise a fixed number of hours. Best-fit customer and trade-offs NovaPhone S may suit customers who prefer a compact display and OLED technology. NovaPhone Plus offers a larger 6.7-inch display and 256 GB storage. NovaPhone Lite costs less in the fictional catalog but uses an LCD panel and lists 6 GB RAM. Setup and support For initial setup, charge the device, connect to a trusted network, install system updates through official settings, and restore data from a verified backup. Customers should never share account passwords or one-time codes with a chatbot or support agent. Product FAQ Q: What is the product ID? A: NT-PHN-201."
+  },
+  {
+    "chunk_id": 25,
+    "page": 6,
+    "text": "Product FAQ Q: What is the product ID? A: NT-PHN-201. Q: How much storage is listed? A: 128 GB. Q: Does 5G work everywhere? A: No; carrier coverage, plan, bands, and location matter. Q: Is the phone waterproof? A: No water-resistance rating is specified."
+  },
+  {
+    "chunk_id": 26,
+    "page": 7,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 7 of 25 7. Smartphone Product Profile: NovaPhone Plus Product ID: NT-PHN-202 | Category: Smartphone | Example price: EGP 22,499 Product positioning NovaPhone Plus is the large-screen smartphone in this fictional range. It is designed for customers who read frequently on their phone, watch videos, capture photos and clips, and want more internal storage than the NovaPhone S or Lite. Display and memory The example configuration includes a 6.7-inch OLED display, 8 GB RAM, and 256 GB storage. The larger display can help with reading, maps, video, and viewing photos. One-handed use may be less comfortable for some customers. Camera system The fictional model has a multi-camera rear system with optical stabilization on the main camera."
+  },
+  {
+    "chunk_id": 27,
+    "page": 7,
+    "text": "Camera system The fictional model has a multi-camera rear system with optical stabilization on the main camera. Stabilization can reduce some blur caused by hand movement, but it cannot guarantee sharp photos in every situation. The knowledge base does not specify megapixel counts, optical zoom, or video frame rates. Storage planning The listed 256 GB capacity is double the 128 GB listed for NovaPhone S and NovaPhone Lite. Customers who record many videos, download large games, or keep media offline may value the extra space. Actual available capacity is lower after the system and apps occupy storage. Connectivity and charging The catalog lists 5G where supported, Wi-Fi, Bluetooth, and USB-C. It does not specify supported bands, eSIM support, charger inclusion, charging wattage, or water-resistance rating."
+  },
+  {
+    "chunk_id": 28,
+    "page": 7,
+    "text": "It does not specify supported bands, eSIM support, charger inclusion, charging wattage, or water-resistance rating. Confirm those requirements using official product documentation before making a promise. Comparison with NovaPhone S Plus has a 6.7-inch display and 256 GB storage; S has a 6.1-inch display and 128 GB storage. Both list OLED and 8 GB RAM. Plus costs EGP 5,500 more in the fictional catalog. Customers should decide whether the larger display and extra storage justify the difference. Recommendation example For a customer who watches videos, keeps many photos offline, and prefers a large screen, NT-PHN-202 is a sensible option to consider. For someone who prefers compact handling and has modest storage needs, NT-PHN-201 may be more appropriate. Product FAQ Q: Which phone lists 256 GB? A: NovaPhone Plus, NT-PHN-202. Q: What is its example price? A: EGP 22,499."
+  },
+  {
+    "chunk_id": 29,
+    "page": 7,
+    "text": "Product FAQ Q: Which phone lists 256 GB? A: NovaPhone Plus, NT-PHN-202. Q: What is its example price? A: EGP 22,499. Q: Does optical stabilization guarantee every photo is sharp? A: No; scene and lighting still matter."
+  },
+  {
+    "chunk_id": 30,
+    "page": 8,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 8 of 25 8. Smartphone Product Profile: NovaPhone Lite Product ID: NT-PHN-203 | Category: Smartphone | Example price: EGP 10,750 Product positioning NovaPhone Lite is the budget-oriented smartphone in the fictional catalog. It is intended for calls, messaging, navigation, streaming, social apps, and everyday tasks. It is a lower-priced option for customers who do not require the specific 5G feature listed for S and Plus. Display and configuration The example configuration includes a 6.5-inch LCD display, 6 GB RAM, 128 GB storage, and a dual rear camera system. The catalog does not provide refresh rate, peak brightness, panel measurements, or camera sensor details. Connectivity NovaPhone Lite is listed with 4G LTE, Wi-Fi, Bluetooth, and USB-C. It is not listed as a 5G model."
+  },
+  {
+    "chunk_id": 31,
+    "page": 8,
+    "text": "Connectivity NovaPhone Lite is listed with 4G LTE, Wi-Fi, Bluetooth, and USB-C. It is not listed as a 5G model. Customers should check local 4G coverage and carrier compatibility. Do not infer network bands or SIM configuration from the product name. Everyday performance expectations The listed 6 GB RAM and 128 GB storage may suit ordinary messaging, browsing, streaming, and light app use. Many simultaneously running applications or large games may place greater demands on memory and storage. Exact speed and benchmark results are not available. LCD and OLED explanation NovaPhone Lite uses an LCD panel in this fictional configuration, while S and Plus list OLED. These display technologies differ in how they produce images, but the actual viewing experience also depends on panel quality, brightness, calibration, and personal preference."
+  },
+  {
+    "chunk_id": 32,
+    "page": 8,
+    "text": "Avoid saying one technology is always better for every customer. Comparison with S and Plus Lite has the lowest example price at EGP 10,750 and lists 6 GB RAM. S costs EGP 16,999, lists OLED and 8 GB RAM, and has a 6.1-inch display. Plus costs EGP 22,499, lists OLED and 8 GB RAM, and has 256 GB storage with a 6.7-inch screen. Recommendation example If a customer needs a phone for calls, messaging, maps, and video streaming on a tighter budget, NT-PHN-203 is a reasonable starting point. If the customer specifically requires 5G, explain that Lite is listed as 4G LTE and ask them to consider S or Plus after checking carrier compatibility. Product FAQ Q: What is the example price? A: EGP 10,750. Q: Is it listed as 5G? A: No, it is listed as 4G LTE. Q: Is it waterproof? A: The knowledge base provides no water-resistance rating."
+  },
+  {
+    "chunk_id": 33,
+    "page": 9,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 9 of 25 9. Smartphone Consultation, Migration, and Care Related products: NT-PHN-201, NT-PHN-202, NT-PHN-203 Choosing storage 128 GB may be sufficient for everyday apps and a moderate photo library, but high-resolution video, large games, and offline media can use space quickly. NovaPhone Plus lists 256 GB. Ask whether the customer records video frequently and whether they keep media on the device or in a cloud service. Choosing screen size NovaPhone S lists 6.1 inches, Plus lists 6.7 inches, and Lite lists 6.5 inches. A larger display can make maps and video easier to view, while a smaller display can be easier to hold with one hand. Screen size alone does not establish overall quality."
+  },
+  {
+    "chunk_id": 34,
+    "page": 9,
+    "text": "Screen size alone does not establish overall quality. Carrier and SIM checks Before purchase, confirm the customer's carrier, supported network bands, SIM or eSIM requirements, and coverage where the phone will be used. A phone description that mentions 5G does not guarantee 5G service in every country, neighborhood, or plan. Safe data migration Before moving data, back up the old phone, verify account credentials, check that contacts and photos are synchronized, and ensure that authenticator or recovery methods are available. Use the official transfer process for the relevant operating systems. Do not share passwords or one-time codes in chat. Charging and physical care Use compatible, undamaged charging equipment. Keep the phone and port dry unless official documentation specifies a relevant protection rating; this catalog provides no water-resistance rating for any NovaPhone."
+  },
+  {
+    "chunk_id": 35,
+    "page": 9,
+    "text": "Do not insert metal tools into the charging port. Battery and storage troubleshooting If battery drain is high, review screen brightness, background activity, location access, signal strength, and battery-health information available through the device's official settings. If storage is full, back up important files before removing them and confirm that deleted files are no longer needed. Customer scenario Customer: “I take many videos and want a large screen.” Suggested response: “NovaPhone Plus (NT-PHN-202) lists a 6.7-inch OLED display and 256 GB storage. It costs EGP 22,499 in our fictional catalog. Would you like to prioritize storage, camera details, or budget?” Unknown information rule Do not invent waterproofing, screen protection, wireless charging, fast-charging wattage, camera resolution, or update-support years."
+  },
+  {
+    "chunk_id": 36,
+    "page": 9,
+    "text": "If the customer depends on one of these features, say it is not specified and recommend checking official product documentation before deciding."
+  },
+  {
+    "chunk_id": 37,
+    "page": 10,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 10 of 25 10. Audio Product Profile: NovaBuds Wireless Product ID: NT-AUD-301 | Category: Wireless earbuds | Example price: EGP 2,499 Product positioning NovaBuds Wireless is the fictional everyday earbud option for commuting, casual music, calls, online meetings, and mobile use. It includes Bluetooth audio, touch controls, and a charging case. The catalog does not list active noise cancellation. Playback estimate The stated estimate is up to 5 hours of playback per charge under ideal conditions. Actual time depends on volume, microphone use, wireless connection, codec, battery age, and environmental conditions. Total playback with the case is not specified and should not be invented."
+  },
+  {
+    "chunk_id": 38,
+    "page": 10,
+    "text": "Total playback with the case is not specified and should not be invented. Pairing procedure Charge the earbuds and case, enable Bluetooth on the phone or computer, place the earbuds in pairing mode according to their product guide, and select NovaBuds from the available device list. If pairing fails, disconnect the earbuds from other devices, remove an old pairing entry, and retry. Call quality The product has a microphone for calls, but the knowledge base gives no measured microphone quality, wind-noise handling, or number of microphones. Call quality can be affected by network quality, background noise, fit, and the microphone position. Fit and hygiene Earbud comfort depends on ear shape and tip size. Customers should try the included sizes according to hygiene rules."
+  },
+  {
+    "chunk_id": 39,
+    "page": 10,
+    "text": "Fit and hygiene Earbud comfort depends on ear shape and tip size. Customers should try the included sizes according to hygiene rules. For hygiene-sensitive products, return eligibility may depend on the example returns policy and the condition of the item. Cleaning and storage Keep charging contacts dry and free from debris. Use a soft, dry cloth and follow the product guide. Do not submerge the earbuds or charging case. No water-resistance rating is specified, so do not describe them as waterproof or suitable for swimming. Troubleshooting If one earbud is silent, charge both units, check audio balance settings, clean contacts gently with a dry cloth, and re-pair according to the official guide. If the case or earbuds become unusually hot, smell burnt, or show physical damage, stop using them and seek qualified support. Product FAQ Q: What is the product ID? A: NT-AUD-301."
+  },
+  {
+    "chunk_id": 40,
+    "page": 10,
+    "text": "Product FAQ Q: What is the product ID? A: NT-AUD-301. Q: What is the example price? A: EGP 2,499. Q: Is five-hour playback guaranteed? A: No. Q: Does the catalog claim active noise cancellation? A: No."
+  },
+  {
+    "chunk_id": 41,
+    "page": 11,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 11 of 25 11. Audio Product Profile: NovaSound Headphones Product ID: NT-AUD-302 | Category: Headphones | Example price: EGP 4,799 Product positioning NovaSound Headphones are designed in the fictional catalog for customers who prefer over-ear listening, wireless convenience, and active noise cancellation. The product includes a built-in microphone, Bluetooth, and 3.5 mm wired listening where supported. Battery estimate The example estimate is up to 30 hours with active noise cancellation disabled under ideal conditions. Battery runtime may be lower when noise cancellation is enabled, volume is high, calls are frequent, or the battery has aged. No separate estimate for ANC mode is provided. How active noise cancellation works Active noise cancellation uses microphones and signal processing to reduce some environmental sound."
+  },
+  {
+    "chunk_id": 42,
+    "page": 11,
+    "text": "How active noise cancellation works Active noise cancellation uses microphones and signal processing to reduce some environmental sound. It is not a guarantee of silence and should not be described as hearing protection. Voices, sudden noises, and some frequencies may remain audible. Wired and wireless use Bluetooth can provide wireless listening with compatible phones, computers, and tablets. The 3.5 mm mode can be useful with equipment that has a compatible analog output. Some devices require an adapter, and the catalog does not specify whether every wired mode works with a depleted battery. Comfort and listening safety Headband pressure, ear-cup fit, heat, and weight influence comfort. Encourage moderate listening volume and breaks during long sessions. Customers should stop use if they experience pain or unusual irritation."
+  },
+  {
+    "chunk_id": 43,
+    "page": 11,
+    "text": "Encourage moderate listening volume and breaks during long sessions. Customers should stop use if they experience pain or unusual irritation. Troubleshooting For no sound, check the selected output device, volume, mute setting, Bluetooth connection, and cable seating. If noise cancellation seems weak, confirm the mode is enabled and the ear cups fit correctly. Explain that ANC performance varies by environment. Comparison with NovaBuds NovaBuds are compact earbuds priced at EGP 2,499, with up to 5 hours per charge under ideal conditions. NovaSound headphones cost EGP 4,799 and list ANC plus up to 30 hours with ANC off. The form factor, comfort, battery conditions, and noise-reduction needs should guide the choice. Product FAQ Q: Which product lists ANC? A: NT-AUD-302. Q: Is 30 hours guaranteed with ANC enabled? A: No; the estimate applies with ANC disabled under ideal conditions."
+  },
+  {
+    "chunk_id": 44,
+    "page": 11,
+    "text": "A: NT-AUD-302. Q: Is 30 hours guaranteed with ANC enabled? A: No; the estimate applies with ANC disabled under ideal conditions. Q: Does ANC block every sound? A: No."
+  },
+  {
+    "chunk_id": 45,
+    "page": 12,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 12 of 25 12. Charging and Cable Accessories Product IDs: NT-ACC-401 and NT-ACC-402 NovaCharge 30W USB-C — NT-ACC-401 Example price: EGP 899. The charger supports output up to 30 W for compatible devices and supported charging protocols. The fictional package includes the charger only; the cable is sold separately. The catalog does not specify plug variants or every supported protocol. NovaCable USB-C 1.5m — NT-ACC-402 Example price: EGP 299. The cable is 1.5 metres long and is described for charging and data transfer on compatible devices. Maximum power, data rate, video capability, and certification details are not specified. Understanding charger wattage Wattage is a measure of power. A 30 W charger may be appropriate for some phones and accessories but may be insufficient for laptops that require higher input power."
+  },
+  {
+    "chunk_id": 46,
+    "page": 12,
+    "text": "A 30 W charger may be appropriate for some phones and accessories but may be insufficient for laptops that require higher input power. Actual charging speed depends on the device, charger protocol, cable capability, temperature, battery level, and software. Understanding USB-C cables USB-C identifies a connector shape, not a guaranteed set of features. Two USB-C cables may differ in power delivery, data rate, and video support. The chatbot should ask what device is being connected and what capability is needed, then avoid confirming a feature that the catalog does not document. Safe use Do not use accessories with exposed wires, cracked housings, burn marks, bent connectors, or unusual overheating. Do not cover a charger while it is operating. If an accessory sparks or smells burnt, stop using it and disconnect it if safe to do so."
+  },
+  {
+    "chunk_id": 47,
+    "page": 12,
+    "text": "Do not cover a charger while it is operating. If an accessory sparks or smells burnt, stop using it and disconnect it if safe to do so. Common customer questions Q: Does NT-ACC-401 include a cable? A: No, the example package includes the charger only. Q: Will it charge every laptop at full speed? A: No; device wattage and protocol support must be checked. Q: Does NT-ACC-402 support every USB-C feature? A: The catalog does not specify every capability. Recommendation workflow Ask for the exact device model, its charging input requirements, and whether the customer needs charging only, fast data transfer, or video output. A cable that charges a device may not necessarily support high-speed data or video. If specifications are missing, recommend verifying the device maker's official documentation."
+  },
+  {
+    "chunk_id": 48,
+    "page": 13,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 13 of 25 13. Monitor Product Profile: NovaView 24 Product ID: NT-MON-501 | Category: Monitor | Example price: EGP 5,499 Product positioning NovaView 24 is the everyday desktop monitor in this fictional catalog. It is aimed at study, office work, web browsing, documents, spreadsheets, and general desktop use. The sample configuration lists a 24-inch Full HD IPS panel and 100 Hz refresh rate. Resolution and panel Full HD is commonly 1920 × 1080 pixels. IPS is a liquid-crystal display panel technology often selected for viewing-angle characteristics, but actual contrast, brightness, color accuracy, and response time depend on the specific panel. Those measured values are not provided. Refresh rate A 100 Hz refresh rate means the monitor can update up to 100 times per second when the computer, cable, port, and settings support it."
+  },
+  {
+    "chunk_id": 49,
+    "page": 13,
+    "text": "Refresh rate A 100 Hz refresh rate means the monitor can update up to 100 times per second when the computer, cable, port, and settings support it. It does not guarantee a particular gaming frame rate; the computer must render frames and support the display mode. Inputs and package The listed inputs are HDMI and DisplayPort. A power cable is included in the example package. The video cable inclusion depends on package configuration and should be checked before purchase. Port versions and maximum supported modes are not documented. Setup and ergonomics Connect the monitor to a compatible output, select the correct input, set the desired resolution in the operating system, and confirm the refresh rate in display settings. Place the top of the screen around a comfortable viewing height, reduce glare, and take breaks during long work sessions."
+  },
+  {
+    "chunk_id": 50,
+    "page": 13,
+    "text": "Place the top of the screen around a comfortable viewing height, reduce glare, and take breaks during long work sessions. Care and troubleshooting Clean the screen using a soft cloth and suitable screen-cleaning guidance; do not spray liquid directly onto the panel. If the monitor shows no signal, verify power, input selection, cable seating, and computer output. Try a known-compatible cable or another supported port. Comparison with NovaView 27 QHD NovaView 24 is lower-priced, 24 inches, Full HD, and listed at 100 Hz. NovaView 27 QHD is 27 inches, QHD, and listed at 144 Hz, with a higher example price. Customers should consider desk size, graphics output, budget, and preferred text size. Product FAQ Q: What is the product ID? A: NT-MON-501. Q: What resolution is listed? A: Full HD, commonly 1920 × 1080. Q: Does 100 Hz guarantee 100 frames per second in every game? A: No."
+  },
+  {
+    "chunk_id": 51,
+    "page": 14,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 14 of 25 14. Monitor Product Profile: NovaView 27 QHD Product ID: NT-MON-502 | Category: Monitor | Example price: EGP 9,999 Product positioning NovaView 27 QHD is the higher-resolution monitor in the fictional catalog. It targets users who want more desktop space, clearer detail, and smoother motion in compatible applications. It may be relevant to productivity, study, and gaming setups, subject to computer compatibility. Display specifications The sample configuration lists a 27-inch QHD IPS panel and a 144 Hz refresh rate. QHD commonly refers to 2560 × 1440 pixels. The catalog does not specify response time, brightness, contrast ratio, color gamut, HDR certification, or adaptive-sync support."
+  },
+  {
+    "chunk_id": 52,
+    "page": 14,
+    "text": "The catalog does not specify response time, brightness, contrast ratio, color gamut, HDR certification, or adaptive-sync support. Refresh rate and system requirements 144 Hz means the monitor can refresh up to 144 times per second when the connected computer, port, cable, and display settings support it. The graphics system must also render frames at an appropriate rate to realize the full benefit in games. Ports and cables The fictional monitor lists HDMI and DisplayPort inputs. The exact port versions and supported resolution-refresh combinations are not specified. A compatible cable and graphics output are required; a physically fitting connector does not guarantee QHD at 144 Hz. Use cases The larger QHD workspace may help users view more spreadsheet columns, compare documents, work with timelines, or see more detail in supported content."
+  },
+  {
+    "chunk_id": 53,
+    "page": 14,
+    "text": "Some users may need to adjust operating-system scaling for comfortable text size. Comparison with NovaView 24 NovaView 27 QHD costs EGP 9,999 in the example catalog, compared with EGP 5,499 for NovaView 24. It offers a larger panel, higher resolution, and a higher listed refresh rate. NovaView 24 may be adequate for everyday tasks and a smaller budget. Troubleshooting If the monitor does not reach 144 Hz, check display settings, graphics driver documentation, cable specification, and the exact output port. Test a supported resolution and refresh rate first. Do not assume that all laptops can output QHD at 144 Hz. Product FAQ Q: Which monitor is QHD? A: NT-MON-502. Q: What refresh rate is listed? A: 144 Hz. Q: Does every computer support that mode? A: No; the entire display connection chain must support it."
+  },
+  {
+    "chunk_id": 54,
+    "page": 15,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 15 of 25 15. Accessory Product Profile: NovaDesk Hub 7-in-1 Product ID: NT-ACC-403 | Category: Connectivity hub | Example price: EGP 1,899 Product purpose NovaDesk Hub 7-in-1 is a fictional connectivity hub intended to expand ports on a compatible laptop or tablet. Its example configuration includes HDMI, USB-A, USB-C power pass-through, SD card reader, and microSD card reader. The “7-in-1” name is a product label; the exact count and behavior of every port should be confirmed against the full product specification in a real product. Host port requirements The hub connects through USB-C, but display output requires a host port that supports video output, such as a compatible DisplayPort Alt Mode implementation. Some USB-C ports support data only."
+  },
+  {
+    "chunk_id": 55,
+    "page": 15,
+    "text": "Some USB-C ports support data only. Therefore, the chatbot must not promise HDMI output solely because the laptop has a USB-C connector. HDMI display connection To use an external display, connect the hub to a compatible host port, attach the monitor through a suitable HDMI cable, select the correct monitor input, and configure display settings. Resolution and refresh rate depend on the laptop, hub design, cable, and monitor. The exact supported maximum is not documented. Power pass-through USB-C power pass-through allows a compatible external charger to provide power through the hub to a supported host device. It does not mean that the hub itself supplies wall power or that all input power reaches the laptop. Charger capacity and hub design can affect delivered power. Card readers and peripherals The SD and microSD readers may help transfer files from compatible memory cards."
+  },
+  {
+    "chunk_id": 56,
+    "page": 15,
+    "text": "Card readers and peripherals The SD and microSD readers may help transfer files from compatible memory cards. File-system support, card capacity, and transfer speed depend on the card and host system. USB-A peripherals may require their own power and driver support. Troubleshooting Connect the hub directly rather than through another adapter, check host-port capabilities, verify the monitor input, reseat cables, and test a known-compatible peripheral. Disconnect high-power devices if behavior becomes unstable. Stop using the hub if it becomes unusually hot or physically damaged. Compatibility questions Before confirming compatibility, ask for the exact laptop model, the port being used, the monitor resolution and refresh rate, and whether the customer needs power delivery or card-reader functionality."
+  },
+  {
+    "chunk_id": 57,
+    "page": 15,
+    "text": "If the host port specifications are unavailable, state that compatibility is unconfirmed. Product FAQ Q: What is the product ID? A: NT-ACC-403. Q: Does HDMI work from every USB-C port? A: No. Q: Is a wall charger included? A: The catalog does not specify that one is included."
+  },
+  {
+    "chunk_id": 58,
+    "page": 16,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 16 of 25 16. Technical Reference: Hardware, Displays, Ports, and Networks Content type: Technical guide | CPU, RAM, SSD, GPU, displays, connectivity CPU basics The central processing unit executes general instructions and coordinates many system tasks. CPU performance depends on architecture, core count, clock behavior, power limits, cooling, and workload. A product label alone does not establish benchmark performance. RAM basics Random access memory is short-term working space for active programs and data. More RAM can reduce pressure when many applications or large projects are open. RAM is not the same as storage, and its contents are not retained like saved files after power is removed. SSD basics A solid-state drive stores the operating system, applications, and user files."
+  },
+  {
+    "chunk_id": 59,
+    "page": 16,
+    "text": "SSD basics A solid-state drive stores the operating system, applications, and user files. SSD capacity affects how much data can be stored; speed depends on the drive and interface. The user-available capacity is lower than the nominal advertised amount because system software occupies space. GPU basics A graphics processing unit handles graphics and can accelerate some parallel computing workloads. Some AI tasks benefit from a GPU, but the exact GPU model, memory, drivers, framework support, and model size matter. “Dedicated graphics” alone is not enough to guarantee a particular AI workflow. Applying the concepts to NovaBook models Study 15 lists 8 GB RAM and 256 GB SSD; Air 14 lists 16 GB RAM and 512 GB SSD; Pro 16 lists 32 GB RAM and 1 TB SSD plus dedicated mid-range graphics."
+  },
+  {
+    "chunk_id": 60,
+    "page": 16,
+    "text": "These comparisons are grounded in the fictional catalog and should not be converted into real-world benchmark claims. Explaining trade-offs to customers If the customer mainly uses documents and a browser, the lowest-cost configuration may be adequate. If they multitask heavily, extra RAM may help. If they store many files, extra SSD capacity may matter. For graphics or AI work, ask for the exact applications and verify the GPU details before recommending. FAQ and unknowns Q: Is 1 TB SSD the same as 1 TB RAM? A: No. Q: Does more RAM guarantee a faster computer in every task? A: No. Q: What exact GPU is inside Pro 16? A: The knowledge base does not specify it. Q: Can the chatbot provide benchmark scores? A: No benchmark data is included. Resolution Resolution describes the pixel grid used to render an image."
+  },
+  {
+    "chunk_id": 61,
+    "page": 16,
+    "text": "Q: Can the chatbot provide benchmark scores? A: No benchmark data is included. Resolution Resolution describes the pixel grid used to render an image. Full HD commonly means 1920 × 1080 pixels, and QHD commonly means 2560 × 1440 pixels. Higher resolution can show more detail, but it also requires compatible output hardware, cables, and display settings. Refresh rate Refresh rate is measured in hertz. A 100 Hz screen can refresh up to 100 times each second, and a 144 Hz screen up to 144 times each second when the full system supports that mode. Refresh rate is not the same as the frame rate rendered by an application. USB-C connector USB-C is a physical connector standard, not a promise of a particular charging wattage, data rate, or video feature. Capabilities vary by device port, cable, adapter, and accessory."
+  },
+  {
+    "chunk_id": 62,
+    "page": 16,
+    "text": "Capabilities vary by device port, cable, adapter, and accessory. Confirm the exact requirements before recommending a USB-C hub or cable for display output. HDMI and DisplayPort HDMI and DisplayPort can carry video and audio when supported by the connected devices. Supported resolution and refresh rate depend on port versions, cable capability, adapters, graphics hardware, and display settings. A cable fitting physically does not prove that every mode is supported. Wi-Fi and Bluetooth Wi-Fi typically connects devices to local wireless networks. Bluetooth connects nearby peripherals such as headphones and earbuds. Pairing, range, interference, operating-system settings, and device compatibility can affect reliability. The knowledge base does not specify exact wireless versions for every product."
+  },
+  {
+    "chunk_id": 63,
+    "page": 16,
+    "text": "The knowledge base does not specify exact wireless versions for every product. Mobile networks 4G LTE and 5G service depend on supported bands, carrier coverage, plan, congestion, and location. NovaPhone Lite is listed as 4G LTE; NovaPhone S and Plus list 5G where supported. These descriptions do not guarantee coverage or performance at a specific address. Troubleshooting checklist For a display issue, check the input, cable, port, resolution, and refresh-rate settings. For Bluetooth, check pairing mode, charge level, and whether the accessory is connected to another device. For mobile network issues, check carrier coverage and account settings rather than assuming the phone is defective. FAQ Q: Does every USB-C port support video? A: No. Q: Does a 144 Hz monitor force every game to render at 144 FPS? A: No. Q: Can this document confirm coverage at a specific address? A: No."
+  },
+  {
+    "chunk_id": 64,
+    "page": 17,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 17 of 25 17. Compatibility Matrix and Product Pairing Content type: Cross-product guide | IDs preserved for retrieval Laptop and monitor pairing NovaBook Air 14 lists HDMI and USB-C, but the exact supported display modes and USB-C video capability are not specified. Before recommending either monitor, confirm the customer's exact laptop port capabilities, cable type, target resolution, and refresh rate. Do not assume undocumented port features for other laptops. Laptop and hub pairing NovaDesk Hub 7-in-1 (NT-ACC-403) requires a host USB-C port that supports video output if the customer wants to use its HDMI port. If the host port supports data only, the HDMI output may not function. Ask for the laptop model and verify its official port specification."
+  },
+  {
+    "chunk_id": 65,
+    "page": 17,
+    "text": "If the host port supports data only, the HDMI output may not function. Ask for the laptop model and verify its official port specification. Phone and charger pairing NovaCharge 30W (NT-ACC-401) can provide up to 30 W only to compatible devices using supported protocols. The phone may draw less power, and the cable may limit performance. If the customer expects a specific charging time, explain that no device-specific charging test is included. Audio and source-device pairing NovaSound Headphones (NT-AUD-302) support Bluetooth and 3.5 mm wired listening where supported. NovaBuds Wireless (NT-AUD-301) use Bluetooth. Confirm that the source device supports the chosen connection method and check whether an adapter is required. Phone comparison NovaPhone S and Plus list OLED displays and 8 GB RAM; Plus lists 256 GB storage and a 6.7-inch screen, while S lists 128 GB and a 6.1-inch screen."
+  },
+  {
+    "chunk_id": 66,
+    "page": 17,
+    "text": "NovaPhone Lite lists LCD, 6 GB RAM, 128 GB, and 4G LTE. Recommend based on budget, screen preference, storage, and network needs. Monitor comparison NovaView 24 (NT-MON-501) is 24-inch Full HD at 100 Hz, while NovaView 27 QHD (NT-MON-502) is 27-inch QHD at 144 Hz. The computer and cable must support the intended mode. The more expensive monitor is not automatically better for every desk or workload. Unknown compatibility protocol When information is missing, state what is known and what remains unverified. Ask for the exact device model or port specification. Never infer that a cable supports video, that a laptop can run a display at maximum refresh rate, or that a charger powers every device."
+  },
+  {
+    "chunk_id": 67,
+    "page": 18,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 18 of 25 18. Orders, Payments, and Privacy Policy Policy ID: NOVA-POL-ORD-01 | Fictional demonstration policy Demo ordering workflow A real online order normally involves selecting product IDs and quantities, confirming availability, entering delivery details in a secure checkout, reviewing taxes and delivery charges, and submitting payment or a selected payment method. This knowledge-base chatbot has no live commerce integration and cannot complete those steps. Payment examples For demonstration only, a hypothetical store might support cash on delivery in eligible areas, bank cards, or an approved digital wallet. These are examples, not confirmed NovaTech services. The chatbot must not tell a customer that a payment method is available unless a real checkout system verifies it."
+  },
+  {
+    "chunk_id": 68,
+    "page": 18,
+    "text": "The chatbot must not tell a customer that a payment method is available unless a real checkout system verifies it. Order confirmation and references A genuine order system should provide an order reference and confirmation through an approved channel. The chatbot must not invent an order number or state that an order was placed, cancelled, or amended unless a connected order-management system confirms the action. Cancellation and changes The example knowledge base does not define a guaranteed cancellation window or a method for editing an order. The correct answer is that eligibility is not specified here and would need to be checked in the real order system and current policy. Privacy principles Collect only information necessary for a support task. Do not ask customers to paste passwords, full card security codes, or one-time verification codes into chat."
+  },
+  {
+    "chunk_id": 69,
+    "page": 18,
+    "text": "Do not ask customers to paste passwords, full card security codes, or one-time verification codes into chat. Sensitive payment information belongs only in a trusted secure checkout, not a general chatbot conversation. Fraud-aware support If a customer reports a suspicious payment message, advise them not to click unfamiliar links or share authentication codes. They should contact their payment provider through its official application or verified channel. Do not claim that a charge has been reversed without verified payment-system evidence. FAQ Q: Can this chatbot accept payment? A: No. Q: Can it confirm my order? A: Not without an order-system integration. Q: Are the listed payment methods real? A: No, they are fictional examples. Q: Can I share my OTP with support? A: No."
+  },
+  {
+    "chunk_id": 70,
+    "page": 19,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 19 of 25 19. Shipping, Delivery, and Tracking Policy Policy ID: NOVA-POL-SHIP-01 | Fictional demonstration policy Example delivery windows The fictional estimate is 2–5 business days in major cities and 4–7 business days in other supported areas. These windows are examples for retrieval testing, not a guarantee or a statement about an actual courier. A real merchant would need to confirm service coverage and current operating conditions. When the estimate starts For this example, the estimate begins after order confirmation. Real delivery estimates may depend on payment confirmation, stock allocation, courier pickup, destination, weekends, and public holidays. The chatbot should not calculate an exact arrival date unless a reliable shipping system provides one."
+  },
+  {
+    "chunk_id": 71,
+    "page": 19,
+    "text": "The chatbot should not calculate an exact arrival date unless a reliable shipping system provides one. Possible delays Delivery may be delayed by weather, public holidays, courier capacity, remote destinations, incorrect addresses, unavailable recipients, or operational interruptions. The chatbot should acknowledge uncertainty rather than promise that a parcel will arrive on a specific day. Address quality Before a real order is submitted, customers should verify recipient name, phone number, street, building, apartment, district, and city. Delivery details should be handled only through authorized systems and not exposed to unrelated users. Tracking limitations This knowledge base has no courier API, tracking number, or live parcel events."
+  },
+  {
+    "chunk_id": 72,
+    "page": 19,
+    "text": "Tracking limitations This knowledge base has no courier API, tracking number, or live parcel events. If a customer asks “Where is my package right now?”, the chatbot should explain that it cannot access live tracking and direct them to the real order confirmation or courier channel, if available. Failed delivery The example document does not define the number of delivery attempts, redelivery fees, or address-change rules. Do not invent these details. Explain that the knowledge base does not specify them and recommend checking the actual merchant or courier policy. FAQ Q: What is the example delivery estimate for major cities? A: 2–5 business days after order confirmation. Q: Is it guaranteed? A: No. Q: Can the chatbot locate a parcel live? A: No live tracking integration is connected."
+  },
+  {
+    "chunk_id": 73,
+    "page": 20,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 20 of 25 20. Returns, Exchanges, and Refunds Policy Policy ID: NOVA-POL-RET-01 | Fictional demonstration policy Example return window The fictional policy allows a return or exchange request within 14 calendar days of delivery, subject to inspection and applicable conditions. This example is included to test policy retrieval; it is not a real retailer commitment or legal advice. Item condition and package The example policy expects the item to be returned with included accessories and proof of purchase, with original packaging where available. Products showing damage caused by misuse may be excluded. The exact condition requirements for each category are not fully specified. Hygiene-sensitive products Earbuds and other hygiene-sensitive items may be subject to additional return conditions."
+  },
+  {
+    "chunk_id": 74,
+    "page": 20,
+    "text": "Hygiene-sensitive products Earbuds and other hygiene-sensitive items may be subject to additional return conditions. The knowledge base does not define a complete category-by-category exclusion list, so the chatbot must not state that a specific opened item is automatically eligible or ineligible. Damaged or incorrect item Under the example policy, the customer should contact support within 48 hours of delivery, describe the issue, provide the order reference, and attach clear photos when safe. Customers should stop using visibly damaged electrical products and avoid attempting risky repairs. Refund initiation For this fictional policy, an approved refund is initiated within 7–14 business days after the returned item passes inspection. The time for the funds to appear depends on the original payment provider. This is not a guarantee of a completed refund by a specific date."
+  },
+  {
+    "chunk_id": 75,
+    "page": 20,
+    "text": "The time for the funds to appear depends on the original payment provider. This is not a guarantee of a completed refund by a specific date. Approval and status A chatbot may explain the documented steps, but it must not claim that a return has been approved or a refund processed without a real return/payment system. If the customer needs a case-specific status, refer them to the actual authorized support channel. Example conversation Customer: “My monitor arrived cracked yesterday.” Suggested answer: “Please stop using it and contact the seller within 48 hours under the example policy. Keep the order reference and take photos of the package and damage if safe. The return still requires inspection and confirmation.” FAQ Q: What is the example return window? A: 14 calendar days from delivery, subject to conditions. Q: When should damage be reported? A: Within 48 hours under this example."
+  },
+  {
+    "chunk_id": 76,
+    "page": 20,
+    "text": "A: 14 calendar days from delivery, subject to conditions. Q: When should damage be reported? A: Within 48 hours under this example. Q: Is every return automatically approved? A: No."
+  },
+  {
+    "chunk_id": 77,
+    "page": 21,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 21 of 25 21. Warranty, Repair, and Product Safety Policy ID: NOVA-POL-WAR-01 | Fictional demonstration policy Example warranty duration The fictional example warranty is 12 months for eligible main devices, starting from the documented purchase date. Accessories may have different terms. Accidental damage, misuse, unauthorized repair, and consumable wear may be excluded, but exact category-specific terms are not fully defined. Proof and inspection Warranty assessment may require proof of purchase, product ID, serial number where applicable, a description of the fault, and inspection by an authorized service provider. The chatbot must not confirm eligibility based only on a customer's brief description."
+  },
+  {
+    "chunk_id": 78,
+    "page": 21,
+    "text": "The chatbot must not confirm eligibility based only on a customer's brief description. Repair timing and replacement No guaranteed repair completion time, service-center address, replacement stock, or repair status is included. Do not promise free repair or replacement before the authorized process verifies the warranty terms and fault. Battery and electrical hazards If a device has a swollen battery, smoke, a burning smell, sparks, or visible electrical damage, stop using it. Do not puncture, compress, disassemble, or attempt to repair a battery. Keep the item away from flammable materials and seek qualified service guidance. Data before service Where safe and practical, back up important data before service and follow official instructions for account sign-out or device reset. Do not provide passwords or one-time codes to a support agent."
+  },
+  {
+    "chunk_id": 79,
+    "page": 21,
+    "text": "Do not provide passwords or one-time codes to a support agent. If the device cannot be safely powered on, do not force it just to create a backup. Warranty conversation example Customer: “My laptop will not turn on. Is it covered?” Suggested answer: “The example policy lists a 12-month warranty for eligible main devices, but coverage depends on the purchase date, written terms, and inspection. Please keep proof of purchase and avoid opening the device. Is there any burning smell, liquid exposure, or battery swelling?” Escalation boundaries A chatbot can collect non-sensitive details such as product ID, purchase date, symptom, and steps tried. It should not diagnose internal electrical damage with certainty or provide hazardous disassembly steps. Safety issues should be escalated promptly. FAQ Q: Is the example warranty 12 months for all accessories? A: No; accessory terms may differ."
+  },
+  {
+    "chunk_id": 80,
+    "page": 21,
+    "text": "Safety issues should be escalated promptly. FAQ Q: Is the example warranty 12 months for all accessories? A: No; accessory terms may differ. Q: Does warranty guarantee accidental-damage repair? A: No. Q: Can the chatbot see repair status? A: Not without a connected service system."
+  },
+  {
+    "chunk_id": 81,
+    "page": 22,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 22 of 25 22. Troubleshooting Playbook: Laptops and Phones Content type: Support procedure | Safety-first steps Laptop does not power on First check the wall outlet and visible adapter connections. Inspect the cable without touching exposed conductors. Disconnect nonessential peripherals and follow the device maker's normal power-on procedure. If there was liquid exposure, smoke, a burning smell, unusual heat, or battery swelling, stop and seek qualified service. Laptop runs slowly Close unused applications, restart the system, check free storage, and install updates through official operating-system tools. Review whether many programs launch automatically. Do not direct customers to untrusted driver sites, disable security controls, or install unknown “cleaner” applications."
+  },
+  {
+    "chunk_id": 82,
+    "page": 22,
+    "text": "Do not direct customers to untrusted driver sites, disable security controls, or install unknown “cleaner” applications. Laptop Wi-Fi problems Confirm Wi-Fi is enabled, check whether other devices can connect, restart the router only if appropriate, and reconnect using the customer's trusted network settings. Do not ask the customer to post their Wi-Fi password in chat. If the issue affects multiple devices, the router or service may be involved. Phone charges slowly Check the adapter rating and cable condition, verify that the device supports the charging method, and avoid charging in excessive heat. Some devices slow charging near full battery or when warm. Stop using an accessory that sparks, smells burnt, or becomes unusually hot. Phone storage is full Review large downloads, videos, and unused apps."
+  },
+  {
+    "chunk_id": 83,
+    "page": 22,
+    "text": "Stop using an accessory that sparks, smells burnt, or becomes unusually hot. Phone storage is full Review large downloads, videos, and unused apps. Back up important files before deleting them and confirm that cloud backups completed. Do not tell customers to remove system files or use unfamiliar cleanup apps. Cloud storage can have cost and privacy implications. Phone battery drains quickly Check screen brightness, background activity, location access, signal strength, and battery information available in official settings. Recent updates and weak signal can temporarily increase consumption. If the battery is swollen or the device smells burnt, stop use and escalate rather than continuing software troubleshooting. Collecting support evidence If basic checks fail, collect product ID, device model, operating system if known, error text, when the problem began, and steps already tried."
+  },
+  {
+    "chunk_id": 84,
+    "page": 22,
+    "text": "Avoid requesting passwords, one-time codes, or unnecessary personal data. Summarize findings before escalation. Example dialogue Customer: “My phone is hot and charging slowly.” Suggested answer: “Disconnect the charger if it is unusually hot, and stop using any cable or adapter that shows damage or smells burnt. Let the device cool away from flammable materials. What phone model and charger are you using, and is there any swelling or smoke?”"
+  },
+  {
+    "chunk_id": 85,
+    "page": 23,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 23 of 25 23. Troubleshooting Playbook: Audio, Monitors, and Hubs Content type: Support procedure | Connection diagnostics Earbuds fail to pair Charge the earbuds and case, enable Bluetooth, place the earbuds into pairing mode according to their guide, and select the correct device name. If they remain connected to another device, disconnect them there. Remove an old pairing entry and retry. Do not assume the earbuds are defective before these checks. Headphones have no sound Check source volume, mute state, selected output device, Bluetooth status, and cable seating. Test audio from another application or source if available. For 3.5 mm wired use, verify that the source has a compatible analog output or adapter."
+  },
+  {
+    "chunk_id": 86,
+    "page": 23,
+    "text": "Test audio from another application or source if available. For 3.5 mm wired use, verify that the source has a compatible analog output or adapter. Monitor says no signal Check that the monitor is powered, select the correct HDMI or DisplayPort input, reseat the cable, and wake the computer. Confirm that the computer's output supports the chosen mode. Try a known-compatible cable or another supported port if available. Monitor refresh rate is lower than expected Open the operating system's display settings and check the selected refresh rate. Verify graphics output, cable capability, port version, and monitor support. For NovaView 27 QHD, the 144 Hz listing does not guarantee every computer can deliver QHD at 144 Hz. USB-C hub video does not work Confirm that the host USB-C port supports video output."
+  },
+  {
+    "chunk_id": 87,
+    "page": 23,
+    "text": "USB-C hub video does not work Confirm that the host USB-C port supports video output. Connect the hub directly to the computer, verify the monitor input, and test a known-compatible cable. USB-C connector shape alone does not prove video capability. Check the host device's official port specification. Intermittent connection Reseat connectors gently, inspect cables for visible damage, and test one component at a time. Avoid forcing connectors or opening power adapters. If a device sparks, smells burnt, or becomes unusually hot, disconnect it if safe and stop using it. Escalation record Record product ID, host device model, monitor or accessory model, cable type, symptoms, error message, and the troubleshooting steps attempted. Do not ask customers to perform invasive repairs or bypass electrical protections. Escalate persistent or safety-related issues."
+  },
+  {
+    "chunk_id": 88,
+    "page": 23,
+    "text": "Do not ask customers to perform invasive repairs or bypass electrical protections. Escalate persistent or safety-related issues. Example dialogue Customer: “My hub's HDMI does not work on my laptop.” Suggested answer: “The hub needs a USB-C host port that supports video output; not every USB-C port does. Please share your laptop model and check its official port specifications. We should confirm compatibility before concluding the hub is faulty.”"
+  },
+  {
+    "chunk_id": 89,
+    "page": 24,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 24 of 25 24. Customer Service Scenarios, FAQ, and RAG Evaluation Content type: Dialogue examples and evaluation queries | Grounded response policy Scenario: choosing a laptop Customer: “What is the best laptop?” Good response: “I can help narrow it down. What is your budget, which applications will you use, and do you carry it daily? In our fictional catalog, Study 15 is the lowest-priced option, Air 14 offers a portable 16 GB/512 GB configuration, and Pro 16 lists 32 GB RAM and 1 TB SSD for heavier workloads.” Scenario: asks for a discount Customer: “Can I get 20% off?” Good response: “This knowledge base does not include active discounts or coupon rules, so I cannot confirm a discount. Please check the actual store's current offer information.” Do not invent promotions or calculate a final sale price as if it were approved."
+  },
+  {
+    "chunk_id": 90,
+    "page": 24,
+    "text": "Please check the actual store's current offer information.” Do not invent promotions or calculate a final sale price as if it were approved. Scenario: asks about stock Customer: “Is NovaPhone Plus available today?” Good response: “The demo catalog does not include live inventory, so I cannot confirm current stock. If you have access to the real store, check its current product listing or contact its verified support channel.” Scenario: asks for delivery status Customer: “Where is my package?” Good response: “I do not have access to live order or courier tracking in this demo. Please use the tracking link or order channel provided by the actual seller.” Do not fabricate parcel events or tracking references. Scenario: compatibility uncertainty Customer: “Will this hub run my 4K monitor at 144 Hz?” Good response: “The knowledge base does not specify the hub's maximum video mode."
+  },
+  {
+    "chunk_id": 91,
+    "page": 24,
+    "text": "We need to verify the laptop's USB-C video capability, hub specification, cable, and monitor requirements before confirming compatibility.” Scenario: return request Customer: “I want to return a device.” Good response: “The example policy allows a request within 14 calendar days of delivery, subject to inspection and conditions. If the item is damaged, the example policy asks customers to contact support within 48 hours. This demo cannot open a real return case.” Style requirements Answers should be polite, concise, and organized. Mention product IDs when relevant, label fictional prices and policies, state limitations clearly, and ask one focused clarifying question when needed. Avoid overly confident statements when evidence is incomplete."
+  },
+  {
+    "chunk_id": 92,
+    "page": 24,
+    "text": "Avoid overly confident statements when evidence is incomplete. Response template A useful response format is: (1) direct answer, (2) evidence from the knowledge base, (3) important limitation or compatibility condition, and (4) one next step. This structure makes answers easier to evaluate and reduces hallucinations in a RAG application. Product fact questions Q: What is the price of NovaBook Air 14? A: EGP 28,999, product NT-LAP-101. Q: Which laptop lists 32 GB RAM? A: NovaBook Pro 16, NT-LAP-102. Q: What storage does Study 15 list? A: 256 GB SSD. Q: Which phone lists 256 GB storage? A: NovaPhone Plus, NT-PHN-202. Q: What is NovaPhone Lite's example price? A: EGP 10,750. Accessory questions Q: Which product lists active noise cancellation? A: NovaSound Headphones, NT-AUD-302. Q: What is NovaBuds' example price? A: EGP 2,499. Q: What is the NovaCharge rating?"
+  },
+  {
+    "chunk_id": 93,
+    "page": 24,
+    "text": "A: NovaSound Headphones, NT-AUD-302. Q: What is NovaBuds' example price? A: EGP 2,499. Q: What is the NovaCharge rating? A: Up to 30 W for compatible devices. Q: Which monitor is QHD? A: NovaView 27 QHD, NT-MON-502. Q: What is the hub's product ID? A: NT-ACC-403. Policy questions Q: What is the example delivery window for major cities? A: 2–5 business days after order confirmation. Q: What is the example return window? A: 14 calendar days from delivery, subject to conditions. Q: When should damage be reported? A: Within 48 hours under the fictional policy. Q: What is the example warranty for eligible main devices? A: 12 months, subject to written terms and inspection. Multi-hop question 1 Question: “I travel daily, write code, and need a laptop under EGP 30,000.” Grounded answer: “NovaBook Air 14 (NT-LAP-101) is listed at EGP 28,999, approximately 1.4 kg, with 16 GB RAM and a 512 GB SSD."
+  },
+  {
+    "chunk_id": 94,
+    "page": 24,
+    "text": "It may fit lighter development work. If you use many virtual machines or demanding graphics tools, we should check requirements before deciding.” This combines price, weight, memory, and workload context. Multi-hop question 2 Question: “I want a laptop, a QHD monitor, and a hub. Will everything work together?” Grounded answer: “NovaView 27 QHD (NT-MON-502) is listed as QHD at 144 Hz, and NovaDesk Hub (NT-ACC-403) includes HDMI in its example configuration. However, the hub requires a host USB-C port with video output, and the exact supported video mode is not specified. Verify the laptop port, hub limits, cable, and monitor requirements before confirming.” Multi-hop question 3 Question: “My phone charges slowly with NovaCharge 30W. Is it defective?” Grounded answer: “Not necessarily. NT-ACC-401 provides up to 30 W only for compatible devices and supported protocols."
+  },
+  {
+    "chunk_id": 95,
+    "page": 24,
+    "text": "Is it defective?” Grounded answer: “Not necessarily. NT-ACC-401 provides up to 30 W only for compatible devices and supported protocols. Check the phone's charging requirements, cable capability, temperature, and battery state. The knowledge base does not provide a device-specific charging-time test.” Unanswerable tests Q: What is NovaBook Pro 16's exact gaming frame rate? A: Not specified; no benchmark is provided. Q: Is NovaPhone Lite waterproof? A: No water-resistance rating is specified. Q: Is NT-MON-502 in stock today? A: Live inventory is unavailable. Q: What is the hub's maximum 4K refresh rate? A: Not specified. Evaluation scoring For each test query, check whether the right chunk was retrieved, whether the answer contains the correct product ID or policy condition, whether unsupported claims were avoided, and whether uncertainty was handled properly."
+  },
+  {
+    "chunk_id": 96,
+    "page": 24,
+    "text": "Keep separate tests for direct lookup, comparison, multi-hop reasoning, and questions that should be refused as unsupported."
+  },
+  {
+    "chunk_id": 97,
+    "page": 25,
+    "text": "NOVATECH ELECTRONICS | FICTIONAL RAG KNOWLEDGE BASE Page 25 of 25 25. RAG Pipeline Notes, Metadata, and Glossary Content type: Implementation reference | Document ID: NOVA-KB-003 Suggested chunk metadata Store fields such as source_file, document_version, page_number, section_title, content_type, category, product_id, policy_id, and language alongside each chunk. Product chunks should carry their product ID; policy chunks should carry a policy ID; FAQ and evaluation chunks should be marked separately. Chunking approach Start by splitting on page and section headings so that a product specification or policy condition stays together. Then split unusually long sections into smaller pieces. A practical experiment might compare chunks of approximately 300–500 tokens with modest overlap, but the best settings depend on the embedding model, retrieval method, and test queries."
+  },
+  {
+    "chunk_id": 98,
+    "page": 25,
+    "text": "Embedding consistency Use the same embedding model for all document chunks and user queries in one vector index. If you change embedding models or vector dimensions, rebuild the index consistently instead of mixing vectors from different spaces. Store the original text and metadata so retrieved evidence can be shown and debugged. Retrieval and generation At query time, embed the question, retrieve the most relevant chunks, optionally rerank them, and provide the evidence to the language model. The system prompt should instruct the model to answer from retrieved context, preserve product IDs, distinguish fictional examples from live information, and say when evidence is missing. Evaluation plan Create a test set of direct product lookups, price questions, product comparisons, policy questions, troubleshooting queries, multi-hop questions, and unanswerable questions."
+  },
+  {
+    "chunk_id": 99,
+    "page": 25,
+    "text": "Measure retrieval recall, answer correctness, groundedness, and hallucination rate. Inspect retrieved chunks when an answer fails. Glossary RAG means Retrieval-Augmented Generation: retrieving relevant source text before generating a response. A chunk is a segment of source text. An embedding is a numerical vector representation of text. A vector database stores vectors and supports similarity search. Metadata is structured information attached to a chunk. Retrieval selects relevant passages; generation produces the final response. Operational cautions The file is a fictional demo, not a real product database. Prices and policies should be updated from an authoritative source in a real deployment. Never expose private customer data in retrieval chunks. Apply access controls if internal policies or customer records are later added."
+  },
+  {
+    "chunk_id": 100,
+    "page": 25,
+    "text": "Never expose private customer data in retrieval chunks. Apply access controls if internal policies or customer records are later added. Final chatbot behavior The assistant should answer clearly, identify products by unique IDs, compare only documented features, ask clarifying questions for ambiguous recommendations, avoid unsupported compatibility claims, and never pretend to perform transactions. When the knowledge base does not contain the answer, it should say so explicitly."
+  }
+]

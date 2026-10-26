@@ -1,7 +1,7 @@
 [project]
 name = "ai-sts"
 version = "0.1.0"
-description = "Add your description here"
+description = "AI-powered electronics support assistant using Retrieval-Augmented Generation (RAG), OpenRouter embeddings, and Streamlit."
 readme = "README.md"
 authors = [
     { name = "omarrx01", email = "omarhaitham04@gmail.com" }
@@ -9,8 +9,12 @@ authors = [
 requires-python = ">=3.11"
 dependencies = [
     "google-genai>=2.31.0",
+    "numpy>=2.4.6",
     "ollama>=0.6.3",
+    "pymupdf>=2.0",
     "python-dotenv>=1.2.4",
+    "requests>=2.34.2",
+    "streamlit>=1.66.1",
 ]
 
 [project.scripts]
