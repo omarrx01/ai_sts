@@ -1,0 +1,267 @@
+[
+  {
+    "id": 1,
+    "question": "How much RAM does NovaBook Pro 16 have?",
+    "ground_truth": "NovaBook Pro 16 has 32 GB RAM.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 3,
+    "type": "single_hop"
+  },
+  {
+    "id": 2,
+    "question": "What is the price of NovaPhone S?",
+    "ground_truth": "NovaPhone S costs EGP 16,999.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 6,
+    "type": "single_hop"
+  },
+  {
+    "id": 3,
+    "question": "What is the price and SSD capacity of NovaBook Air 14?",
+    "ground_truth": "NovaBook Air 14 costs EGP 28,999 and has a 512 GB SSD.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 2,
+    "type": "single_hop"
+  },
+  {
+    "id": 4,
+    "question": "Which NovaBook laptop is the least expensive?",
+    "ground_truth": "NovaBook Study 15 is the cheapest listed laptop at EGP 21,750.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 4,
+    "type": "single_hop"
+  },
+  {
+    "id": 5,
+    "question": "What is the display size of NovaPhone Plus?",
+    "ground_truth": "NovaPhone Plus has a 6.7-inch OLED display.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 7,
+    "type": "single_hop"
+  },
+  {
+    "id": 6,
+    "question": "Does NovaPhone Lite support 5G?",
+    "ground_truth": "NovaPhone Lite is listed with 4G LTE, not 5G.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 8,
+    "type": "single_hop"
+  },
+  {
+    "id": 7,
+    "question": "How long do NovaBuds Wireless last on one charge?",
+    "ground_truth": "NovaBuds Wireless offer up to 5 hours of playback per charge under ideal conditions.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 10,
+    "type": "single_hop"
+  },
+  {
+    "id": 8,
+    "question": "Do NovaSound Headphones have active noise cancellation?",
+    "ground_truth": "Yes. NovaSound Headphones have active noise cancellation.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 11,
+    "type": "single_hop"
+  },
+  {
+    "id": 9,
+    "question": "What is included with the NovaCharge 30W USB-C charger?",
+    "ground_truth": "The package includes the charger only; a cable is sold separately.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 12,
+    "type": "single_hop"
+  },
+  {
+    "id": 10,
+    "question": "What is the refresh rate of NovaView 24?",
+    "ground_truth": "NovaView 24 has a 100 Hz refresh rate.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 13,
+    "type": "single_hop"
+  },
+  {
+    "id": 11,
+    "question": "What is the resolution and refresh rate of NovaView 27 QHD?",
+    "ground_truth": "NovaView 27 QHD has a 2560 x 1440 QHD display with a 144 Hz refresh rate.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 14,
+    "type": "single_hop"
+  },
+  {
+    "id": 12,
+    "question": "What must a laptop USB-C port support for NovaDesk Hub video output?",
+    "ground_truth": "The host USB-C port must support video output, such as compatible DisplayPort Alt Mode; a data-only USB-C port is insufficient.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 15,
+    "type": "single_hop"
+  },
+  {
+    "id": 13,
+    "question": "What is the NovaTech example return request window?",
+    "ground_truth": "A return or exchange request may be made within 14 calendar days of delivery, subject to the fictional policy conditions.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 20,
+    "type": "single_hop"
+  },
+  {
+    "id": 14,
+    "question": "How long is the example warranty for eligible main devices?",
+    "ground_truth": "The fictional warranty is 12 months from the documented purchase date for eligible main devices; accessories may have different terms.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 21,
+    "type": "single_hop"
+  },
+  {
+    "id": 15,
+    "question": "What is the example delivery time for major cities?",
+    "ground_truth": "The fictional estimated delivery window for major cities is 2 to 5 business days after order confirmation.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": 19,
+    "type": "single_hop"
+  },
+  {
+    "id": 16,
+    "question": "Compare NovaBook Air 14 and NovaBook Pro 16 for a developer who travels daily.",
+    "ground_truth": "Air 14 costs EGP 28,999, weighs about 1.4 kg and has 16 GB RAM and a 512 GB SSD, making it more portable. Pro 16 costs EGP 49,500, weighs about 2.0 kg, has 32 GB RAM, a 1 TB SSD and dedicated mid-range graphics, making it more suitable for heavier workloads. The best choice depends on development tools and budget.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      2,
+      3,
+      5
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 17,
+    "question": "Compare NovaPhone S and NovaPhone Lite in price, display, and connectivity.",
+    "ground_truth": "NovaPhone S costs EGP 16,999, has a 6.1-inch OLED display and lists 5G where supported. NovaPhone Lite costs EGP 10,750, has a 6.5-inch LCD display and lists 4G LTE.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      6,
+      8
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 18,
+    "question": "If I buy NovaView 27 QHD and NovaDesk Hub, will the hub guarantee 144 Hz video output?",
+    "ground_truth": "No. NovaView 27 QHD lists 144 Hz, but the hub requires compatible host USB-C video output and the knowledge base does not guarantee that the complete hub and laptop connection supports 144 Hz.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      14,
+      15
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 19,
+    "question": "Which laptop would you recommend for a student with a tight budget who only uses Word and online classes?",
+    "ground_truth": "NovaBook Study 15 is the lowest-priced laptop at EGP 21,750 and is positioned for documents, online classes and basic computing. Ask about budget and any required software before finalizing.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      4,
+      5
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 20,
+    "question": "How do NovaBuds Wireless and NovaSound Headphones differ in battery estimates and noise cancellation?",
+    "ground_truth": "NovaBuds Wireless list up to 5 hours per charge and do not list active noise cancellation. NovaSound Headphones include active noise cancellation and list up to 30 hours with ANC disabled under ideal conditions.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      10,
+      11
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 21,
+    "question": "Can the NovaTech chatbot track my parcel, and what is the example shipping time in major cities?",
+    "ground_truth": "The chatbot cannot track a real parcel without a connected tracking system. The fictional delivery estimate for major cities is 2–5 business days after order confirmation.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": [
+      1,
+      19
+    ],
+    "type": "multi_hop"
+  },
+  {
+    "id": 22,
+    "question": "What is an embedding in machine learning?",
+    "ground_truth": "An embedding is a numeric vector representation of data, such as text, designed to capture useful semantic or other features.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 23,
+    "question": "What is cosine similarity?",
+    "ground_truth": "Cosine similarity measures the cosine of the angle between two nonzero vectors; it is often used to compare embedding directions.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 24,
+    "question": "What does RAG stand for?",
+    "ground_truth": "RAG stands for Retrieval-Augmented Generation, an approach that uses retrieved information to support a generative model.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 25,
+    "question": "What is the difference between RAM and SSD storage?",
+    "ground_truth": "RAM is temporary working memory used by running programs, while SSD storage retains files and installed software.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 26,
+    "question": "What is 12 multiplied by 8?",
+    "ground_truth": "12 multiplied by 8 is 96.",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 27,
+    "question": "Hello! How are you?",
+    "ground_truth": "Hello! I am here to help. How can I assist you?",
+    "source": "NovaTech_Electronics_Knowledge_Base_v3.0_25pages_Detailed.pdf",
+    "page": "",
+    "type": "no_retrieval"
+  },
+  {
+    "id": 28,
+    "question": "What is the exact GPU model and VRAM of NovaBook Pro 16?",
+    "ground_truth": "The NovaTech knowledge base does not specify the exact GPU model or VRAM of NovaBook Pro 16.",
+    "type": "unanswerable"
+  },
+  {
+    "id": 29,
+    "question": "What is the exact battery capacity in mAh of NovaPhone S?",
+    "ground_truth": "The NovaTech knowledge base does not specify the battery capacity of NovaPhone S.",
+    "type": "unanswerable"
+  },
+  {
+    "id": 30,
+    "question": "What is the IP water resistance rating of NovaPhone S?",
+    "ground_truth": "The NovaTech knowledge base does not specify an IP water-resistance rating for NovaPhone S.",
+    "type": "unanswerable"
+  },
+  {
+    "id": 31,
+    "question": "How many hours do NovaSound Headphones last with ANC turned on?",
+    "ground_truth": "The NovaTech knowledge base does not provide a separate battery-life estimate with ANC enabled.",
+    "type": "unanswerable"
+  },
+  {
+    "id": 32,
+    "question": "Can you tell me whether NovaBook Pro 16 is in stock right now?",
+    "ground_truth": "The chatbot has no live inventory access and cannot confirm current stock availability.",
+    "type": "unanswerable"
+  }
+]

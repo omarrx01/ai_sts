@@ -1,0 +1,38 @@
+{
+  "total_questions": 32,
+  "average_correctness": 0.922,
+  "average_faithfulness": 0.844,
+  "average_context_relevance": 0.906,
+  "average_latency_seconds": 2.409,
+  "page_hit_at_3": 0.778,
+  "by_type": {
+    "multi_hop": {
+      "count": 6,
+      "average_correctness": 0.75,
+      "average_faithfulness": 0.75,
+      "average_context_relevance": 0.917,
+      "average_latency_seconds": 3.385
+    },
+    "no_retrieval": {
+      "count": 6,
+      "average_correctness": 0.917,
+      "average_faithfulness": 0.5,
+      "average_context_relevance": 0.583,
+      "average_latency_seconds": 2.12
+    },
+    "single_hop": {
+      "count": 15,
+      "average_correctness": 0.967,
+      "average_faithfulness": 0.967,
+      "average_context_relevance": 1.0,
+      "average_latency_seconds": 2.166
+    },
+    "unanswerable": {
+      "count": 5,
+      "average_correctness": 1.0,
+      "average_faithfulness": 1.0,
+      "average_context_relevance": 1.0,
+      "average_latency_seconds": 2.314
+    }
+  }
+}
